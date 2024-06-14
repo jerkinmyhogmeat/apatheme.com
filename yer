@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>APATHEME</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin-top: 100px; /* Adjust as needed for vertical centering */
+        }
+        h1 {
+            font-size: 36px;
+            font-weight: bold;
+        }
+        .links {
+            margin-top: 20px;
+        }
+        .links a {
+            display: block;
+            margin-bottom: 10px;
+            font-size: 18px;
+            text-decoration: none;
+            color: blue;
+        }
+        .links a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h1>APATHEME</h1>
+    <div class="links">
+        <a href="https://www.youtube.com" target="_blank">YouTube - Link 1</a>
+        <a href="https://www.youtube.com" target="_blank">YouTube - Link 2</a>
+    </div>
+</body>
+</html>
